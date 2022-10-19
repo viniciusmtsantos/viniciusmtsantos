@@ -11,4 +11,4 @@ My main focus now is to understand in general what the world of technology has t
 * 🌍  I'm based in Pouso Alegre, Brazil
 * ✉️  You can contact me at [vinicius.santosmatheus1@gmail.com](mailto:vinicius.santosmatheus1@gmail.com)
 * 🚀  I'm currently working on [Riversoft](http://riversoft.com.br)
-* 🧠  I'm learning Go Lang, Docker and Javascript programming language
+* 🧠  I'm learning Go Lang, Docker and JAVA, with OOP, programming language
