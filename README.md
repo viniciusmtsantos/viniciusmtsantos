@@ -1,7 +1,7 @@
 Hi there 👋 My name is Vinícius
 ==========================
 
-Trainee Software Developer
+Software Developer Trainee 
 -----------------------------
 
 I am a 23 year old developer and discovered the world of codes in my last year of Civil Engineering Degree. Something I love about engineering is problem solving and in software development have the opportunity to solve these deep problems using technology.
