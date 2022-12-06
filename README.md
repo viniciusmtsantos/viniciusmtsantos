@@ -11,4 +11,4 @@ I'm still enthusiastically grabbing onto any programming languages, frameworks, 
 * 🌍  I'm based in Pouso Alegre, Brazil
 * ✉️  You can contact me at [vinicius.santosmatheus1@gmail.com](mailto:vinicius.santosmatheus1@gmail.com)
 * 🚀  I'm currently working on [Riversoft](http://riversoft.com.br)
-* 🧠  I'm learning Go Lang, Docker and JAVA, with OOP, programming language
+* 🧠  I'm learning Go Lang, Docker, VueJS and ReactJS!!
