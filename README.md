@@ -7,8 +7,7 @@
 Here are some quick things about me:
 
 - 🌍  I'm based in Pouso Alegre, Brazil
-- 🕵️‍♀️ Something I love about engineering is problem solving. In software development we have the opportunity to solve these deep problems using technology.
-- 💻 Coding is amazing!
+- 💻 I love problem-solving in engineering. As a software developer, I have the opportunity to tackle complex problems and find innovative solutions using technology.
 - 🔭 I'm learning Go Lang, Docker, VueJS and ReactJS!!
 - 🚀 Working on [Riversoft](http://riversoft.com.br)
 - 📫 You can contact me at [vinicius.santosmatheus1@gmail.com](mailto:vinicius.santosmatheus1@gmail.com)
