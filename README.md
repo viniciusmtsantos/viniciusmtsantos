@@ -6,6 +6,6 @@
 
 Here are some quick things about me:
 
-- 🔭 Harnessing the power of Go Lang, Java, and Docker!
+- 🔭 Harnessing the power of Golang, Java, and Docker!
 - 🚀 Working on [Riversoft](http://riversoft.com.br)
 - 📫 You can contact me at [viniciusmtsantos@gmail.com](mailto:viniciusmtsantos@gmail.com)
