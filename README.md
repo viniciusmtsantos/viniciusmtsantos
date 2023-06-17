@@ -6,6 +6,6 @@
 
 Here are some quick things about me:
 
-- 🔭 Developing with Go Lang, Java, Docker and VueJS!
+- 🔭 Harnessing the power of Go Lang, Java, and Docker!
 - 🚀 Working on [Riversoft](http://riversoft.com.br)
 - 📫 You can contact me at [vinicius.santosmatheus1@gmail.com](mailto:vinicius.santosmatheus1@gmail.com)
