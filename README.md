@@ -25,7 +25,7 @@ Here are some quick things about me:
 <!-- REDES SOCIAIS -->
 <div align="center">
   <a href="https://www.youtube.com/@ViniciusMSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.hackerrank.com/viniciusmtsantos" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%231DA1F2?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>
+  <a href="https://www.hackerrank.com/viniciusmtsantos" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%23009639?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusmtsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="mailto:viniciusmtsantos@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
   
