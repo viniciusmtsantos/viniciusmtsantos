@@ -15,7 +15,7 @@ Here are some quick things about me:
 https://github-readme-stats-ruby-one.vercel.app
 <div align="center">
   <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=viniciusmtsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmtsantos&layout=compact&langs_count=4&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=viniciusmtsantos&layout=compact&langs_count=4&theme=dark"/>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmtsantos&theme=compact&hide_langs_below=1" /> -->
   <!-- THEMES: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
