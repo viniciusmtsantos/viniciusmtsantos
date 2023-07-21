@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Vinicius](https://viniciusmtsantos.github.io/scss-portfolio-responsive/)
+### Hi there 👋 I am [Vinicius Santos](https://viniciusmtsantos.github.io/scss-portfolio-responsive/)
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!**
 -----------------------------
