@@ -16,7 +16,7 @@
 
 [`📫 viniciusmtsantos@gmail.com`](mailto:viniciusmtsantos@gmail.com)
 
-**Software Developer** &#12299;_working in MFT, Reliability Analytics & Automation_
+**Software Developer** &#12299;_Working in MFT, Reliability Analytics & Automation_
 <br/>
 **Academic Tutor on YouTube** &#12299;_Worked as a Teach Assistant for two semesters, by teaching Structural Engineering_
 
