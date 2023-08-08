@@ -18,7 +18,7 @@
 
 **Software Developer** &#12299;_working in MFT, Reliability Analytics & Automation_
 <br/>
-**Academic Tutor on YouTube** &#12299;_specialised in neo-noir pixel art animations and 8bit-ish art_
+**Academic Tutor on YouTube** &#12299;_Worked as a Teach Assistant for two semesters, by teaching Structural Engineering_
 
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmtsantos&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 
