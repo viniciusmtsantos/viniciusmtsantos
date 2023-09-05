@@ -14,9 +14,9 @@
 
 [`📫 viniciusmtsantos@gmail.com`](mailto:viniciusmtsantos@gmail.com)
 
-**Software Developer** &#12299;_Working in MFT, Reliability Analytics & Automation_
+**Fullstack Developer** &#12299;_Working in MFT, Managed File Transfer Operations Systems_
 <br/>
-**Academic Tutor on YouTube** &#12299;_Worked as a Teach Assistant for two semesters, by teaching Structural Engineering_
+**Academic Tutor on YouTube** &#12299;_Worked as a Teach Assistant, by teaching Structural Engineering_
 
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmtsantos&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 
