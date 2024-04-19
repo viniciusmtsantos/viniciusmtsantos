@@ -23,14 +23,14 @@
 
 ----
 
-<a href="https://www.youtube.com/@ViniciusMSantos">
-  <img align="left" alt="Vinicius's youtube channel" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
+<a href="https://linkedin.com/in/viniciusmtsantos">
+  <img align="left" alt="Vinicius's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://www.hackerrank.com/viniciusmtsantos">
   <img align="left" alt="Vinicius's hacker rank" width="20px" src="https://simpleicons.now.sh/hackerrank/495f7e" />
 </a>
-<a href="https://linkedin.com/in/viniciusmtsantos">
-  <img align="left" alt="Vinicius's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+<a href="https://www.youtube.com/@ViniciusMSantos">
+  <img align="left" alt="Vinicius's youtube channel" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; [Website Portfolio](https://viniciusmtsantos.github.io/scss-portfolio-responsive) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</sub>
