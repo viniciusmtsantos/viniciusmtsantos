@@ -33,7 +33,7 @@
   <img align="left" alt="Vinicius's youtube channel" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; [Website Portfolio](https://viniciusmtsantos.github.io/scss-portfolio-responsive) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</sub>
+| &nbsp;&nbsp;&nbsp; [Website Portfolio](https://viniciusmtsantos.github.io/scss-portfolio-responsive) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
