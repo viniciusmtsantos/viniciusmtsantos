@@ -14,7 +14,7 @@
 
 [`📫 viniciusmtsantos@gmail.com`](mailto:viniciusmtsantos@gmail.com)
 
-**Software Engineer at iBlue Consulting** &#12299;_Working with Go Lang in Hexagonal Systems to Highway transport System
+**Software Engineer at iBlue Consulting** &#12299;_Working with Go Lang in Hexagonal Systems to Highway transport System_
 <br/>
 **Academic Tutor on YouTube** &#12299;_Worked as a Teach Assistant, by teaching Structural Engineering_
 
