@@ -14,17 +14,13 @@
 
 [`📫 viniciusmtsantos@gmail.com`](mailto:viniciusmtsantos@gmail.com)
 
-**Software Engineer at iBlue Consulting** &#12299;_Working with Go Lang in Hexagonal Systems to Highway transport System_
+**Software Engineer at Qive** &#12299;_Working with Go Lang to the leading national Accounts Payable platform_
 <br/>
-**Academic Tutor on YouTube** &#12299;_Worked as Tutor, by teaching Civil Structural Engineering_
 
 <!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmtsantos&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">-->
 
 ----
 
-<a href="https://linkedin.com/in/viniciusmtsantos">
-  <img align="left" alt="Vinicius's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
 <a href="https://www.hackerrank.com/viniciusmtsantos">
   <img align="left" alt="Vinicius's hacker rank" width="20px" src="https://simpleicons.now.sh/hackerrank/495f7e" />
 </a>
